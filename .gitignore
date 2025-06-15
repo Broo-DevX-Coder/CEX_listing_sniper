@@ -1,0 +1,7 @@
+test/
+.env
+logs/
+db.db
+Local.db
+db.db
+logs.txt
