@@ -1,6 +1,12 @@
 # 🧠 Overview of Trading Bots
+- Projuct status: __finished__
 
 We present **three automated trading bot projects**, each tailored for real-time monitoring and trading on cryptocurrency exchanges. These bots are designed to detect newly listed trading pairs, evaluate market conditions, and optionally execute trades — ideal for early detection and fast execution strategies.
+
+**Disclaimer**
+> This project is intended strictly for educational and research purposes only.
+Any use of this code for illegal activities — including but not limited to sniping questionable tokens, participating in pump-and-dump schemes, or any activity forbidden under Islamic law (Shariah) — is strictly prohibited.
+The author of this project bears no responsibility for any misuse, and users are solely accountable for ensuring compliance with all applicable laws, regulations, and ethical standards.
 
 ---
 
